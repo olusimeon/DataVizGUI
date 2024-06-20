@@ -25,3 +25,13 @@ DataVizGUI is a simple graphical user interface built with PyQt5 for data visual
    ```sh
    git clone https://github.com/olusimeon/DataVizGUI.git
    cd DataVizGUI
+
+2. Install the required packages:
+   ```sh
+   pip install -r requirements.txt
+
+3. Run the application 
+   ```sh
+   python main.py
+
+
