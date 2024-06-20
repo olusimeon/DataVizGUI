@@ -14,8 +14,11 @@ DataVizGUI is a simple graphical user interface built with PyQt5 for data visual
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 - PyQt5
+- pandas
+- matplotlib
+- seaborn
 
 ## Installation
 
