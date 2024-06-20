@@ -1,5 +1,3 @@
-# DataVizGUI
-
 DataVizGUI is a simple graphical user interface built with PyQt5 for data visualization.
 
 ## Features
