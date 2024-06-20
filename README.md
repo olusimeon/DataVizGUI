@@ -12,6 +12,7 @@ DataVizGUI is a simple graphical user interface built with PyQt5 for data visual
 - Easily doucmented code for re-use 
 - This project can re use to suit your use. 
 - Sample data provided to run the application. 
+- Gui design provided could be opened using pygt5 application
 
 ## Requirements
 
